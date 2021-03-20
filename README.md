@@ -1,7 +1,7 @@
-### Hi there 👋
+# My Profile
 
 <!--
-**SDMH-Hacking-TV/SDMH-Hacking-TV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SDMH-Hacking-TV/SDMH-Hacking-TV**
 
 Here are some ideas to get you started:
 
